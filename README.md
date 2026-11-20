@@ -1,16 +1,61 @@
-## Hi there 👋
+# 안녕하세요, 성윤우입니다 👋
 
-<!--
-**yoonwoo2002/yoonwoo2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java/Spring 백엔드를 중심으로 공부하며 프론트엔드 화면과 사용자 흐름도 함께 다루는 개발자입니다. 팀 프로젝트에서 기획부터 기능 통합, 일정 조율까지 경험했고, 사용자의 문제를 실제 서비스 기능으로 연결하는 데 관심이 있습니다.
 
-Here are some ideas to get you started:
+## 🛠️ 기술 스택
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 분야 | 기술 |
+|---|---|
+| Backend | Java, Spring, Spring Boot |
+| Frontend | HTML, CSS, JavaScript |
+| Database | SQL, MySQL |
+| Language & AI | Python, AI 기반 서비스 기획·분석 |
+| Tools | Figma Make, Codex, Notion AI |
+
+## 🚀 주요 프로젝트
+
+### Tech.Log — AI 기반 리뷰 분석 서비스
+AI로 리뷰의 감정, 광고성, 핵심 키워드를 분석해 구매 판단을 돕는 서비스입니다.
+
+- 5명 팀의 팀장으로 서비스 방향 기획, 역할 분담, 일정·진행 관리와 기능 통합 조율
+- 리뷰 분석 결과를 사용자가 이해하기 쉬운 방식으로 전달하는 흐름 설계
+- 결과: 리뷰 감정 분석, 광고성 리뷰 탐지, 핵심 키워드 분류와 요약 기능을 갖춘 서비스 프로젝트 수행
+- 기술: Java, Python, AI, HTML, CSS
+- [프로젝트 저장소](https://github.com/yoonwoo2002/Titan)
+
+### Shopping Mall Seller — 판매자 기능 프로젝트
+판매자 등록부터 상품 등록과 목록 관리까지 권한별 기능 흐름을 구현한 쇼핑몰 프로젝트입니다.
+
+- 3명 팀에서 판매자 기능 구현에 참여
+- 판매자 등록, 상품 등록·목록 반영, 권한별 메뉴 접근 흐름을 구성하고 예외 상황을 점검
+- 결과: 판매자 등록 중복 방지와 비판매자 접근 제한을 포함한 판매자 기능 흐름 구현
+- 기술: Java, Spring, JavaScript, HTML, CSS
+
+### PokePrice — 포켓몬 카드 시세 앱 프로토타입
+카드 검색, 가격 조건 입력, AI 추천 근거 확인, 관심 카드 저장 흐름을 설계한 앱 프로토타입입니다.
+
+- 개인 프로젝트로 서비스 기획, 화면 흐름 설계, 프로토타입 제작 진행
+- Figma Make와 Codex를 활용해 7개 화면과 사용자 흐름 구성
+- 결과: 온보딩부터 검색, 추천, 상세, 관심 카드까지 이어지는 앱 프로토타입 제작
+- [Figma Make 프로토타입](https://www.figma.com/make/GVvMbphawP5fuF4zUH7CZl/PokePrice-AI-%EC%95%B1-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85?t=MLiIVfsxMVfHdPVG-1)
+
+### 한국어 프롬프트 표현 조건과 LLM 성능 분석
+한국어 프롬프트의 표현 조건이 LLM의 정확도, 요약 품질, 토큰 사용량에 미치는 영향을 분석한 공동 연구입니다.
+
+- 2인 공동 연구에서 실험 설계, 데이터 분석, 결과 해석, 논문 작성 참여
+- MMLU 300문항과 한국어 요약 400문항을 세 모델·네 표현 조건으로 비교
+- 결과: MMLU 정확도는 표현 조건에 따른 통계적으로 유의한 차이가 확인되지 않았고, 요약 품질과 토큰 사용량은 모델별로 비교 분석
+- 기술: Python, AI, 통계 분석
+
+## 🎓 학력 및 경험
+
+- 유한대학교 컴퓨터소프트웨어전공 전문학사 졸업 (2021.03–2026.02)
+- 유한대학교 컴퓨터공학 전공심화 재학 (2026.03–현재)
+- 캡스톤디자인 팀장: 주제 선정, 역할 분담, 일정 관리, 발표 준비
+- Tech.Log 프로젝트 팀장: 서비스 기획, 팀 진행 관리, 기능 통합 조율
+- CU 편의점 근무: 고객 응대와 매장 운영 경험
+
+## 🔗 연락처
+
+- GitHub: [yoonwoo2002](https://github.com/yoonwoo2002)
+- Email: [yoonwoo_s@naver.com](mailto:yoonwoo_s@naver.com)
